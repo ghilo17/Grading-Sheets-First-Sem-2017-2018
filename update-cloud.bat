@@ -7,5 +7,4 @@ git reset
 git add *
 git commit -m "%msg%"
 git push origin master
-Fast forward
 pause
