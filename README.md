@@ -1,6 +1,6 @@
 <h1 align="center">Grading Sheets CODE GC0039-171801</h1>
 <p align="center">
-Grading Sheets in Cavite State University - Silang Campus AY 2017-2018 First Semester Under the instructions of Mr. Gimel C. Contillo
+Grading Sheets in Cavite State University - Silang Campus <br/>AY 2017-2018 First Semester <br/>Under the instructions of Mr. Gimel C. Contillo
 </p>
 
 # Subjects
